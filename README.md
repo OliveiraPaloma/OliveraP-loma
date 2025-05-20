@@ -1,14 +1,15 @@
 <h1 align="center">Olá, eu sou a Paloma! ☕👩‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="300" alt="Mulher com café, óculos e notebook">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Mulher com café, óculos e notebook">
 </p>
+
 
 ---
 
 ## 👩‍💼 Sobre mim
 
-Sou a **Paloma de Oliveira**, mãe da Helena 💕, apaixonada por tecnologia, gente e boas histórias!  
+Sou mãe da Helena 💕, apaixonada por tecnologia, gente e boas histórias!  
 Atualmente sou **Líder de Suporte Técnico**, estudante de **Análise e Desenvolvimento de Sistemas** e também de **Gestão de Projetos**.  
 
 Minha trajetória une experiência técnica, empatia no atendimento e vontade constante de aprender. Estou em transição de carreira para **Product Owner**, focando em construir soluções digitais que realmente façam sentido para quem usa.
