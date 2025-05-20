@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Paloma! ☕👩‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Gatinho trabalhando no computador">
+  <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1ldGNiamJseXlzeW4xNDloZGN1MXhjMjMycHZmY2h4M2xkOWVleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FR61sPFtyp5MnifIN0/giphy.gif)">
 </p>
 
 
