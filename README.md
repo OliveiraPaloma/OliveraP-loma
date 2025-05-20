@@ -11,7 +11,7 @@
 
 ## 👩‍💼 Sobre mim
 
-Sou mãe da Helena 💕, apaixonada por tecnologia, gente e boas histórias!  
+Sou mãe da Helena 💕, apaixonada por tecnologia, gente boa e boas histórias!  
 Atualmente sou **Líder de Suporte Técnico**, estudante de **Análise e Desenvolvimento de Sistemas** e também de **Gestão de Projetos**.  
 
 Minha trajetória une experiência técnica, empatia no atendimento e vontade constante de aprender. Estou em transição de carreira para **Product Owner**, focando em construir soluções digitais que realmente façam sentido para quem usa.
